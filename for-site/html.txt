@@ -1,0 +1,205 @@
+
+<div class="promo-oppo" id="promo-oppo">
+	<div class="video-popup" id="video-popup">
+		<div class="video-container">
+			<div class="video-close" id="video-close">
+				<p>Закрыть</p>
+				<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 25L25 1M25 25L1 1" stroke="white"></path></svg>
+			</div>
+			<video id="video" class="video" muted="">
+				<!-- прямая ссылка на видео -->
+				<source src="https://www.hihonor.com//content/dam/honor/ru/brand/video/brand-video-pc_20210416.mp4" type="video/mp4">
+			</video>
+		</div>
+		<div class="video-bg" id="video-bg"></div>
+	</div>
+	<section class="promo-oppo-header">
+		<div class="promo-oppo-container">
+			<div class="pda-logo">
+				<a href="https://4pda.ru"></a>
+				<i class="icon-4PDA-plain"></i>
+			</div>
+			<a href="https://4pda.ru">Вернуться на сайт</a>
+		</div>
+	</section>
+	<div class="promo-oppo-main-slider-absolute" id="oppo-main-slider-absolute">
+		<div class="promo-oppo-main-slider-wrapper" id="oppo-main-slider-wrapper">
+			<div class="promo-oppo-main-slider">
+				<img src="images/video-bg.jpg" class="promo-oppo-main-bg promo-oppo-main-bg-desktop" alt="" width="1920" height="700">
+				<img src="images/video-bg-mobile.jpg" class="promo-oppo-main-bg promo-oppo-main-bg-mobile" alt="" width="1920" height="700">
+				<div class="promo-oppo-main-content">
+					<img src="images/oppo-logo.png" class="promo-oppo-main-logo" alt="" width="424" height="100">
+					<button id="banner-btn" class="promo-oppo-main-play">
+						<img src="images/play.svg" alt="" width="86" height="83">
+					</button>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="promo-oppo-main-slider-parallax-helper" id="oppo-main-slider-parallax-helper"></div>
+	<div class="promo-oppo-content">
+		<div class="promo-oppo-wrapper">
+			<div class="promo-oppo-container">
+				<nav class="promo-oppo-nav">
+					<!-- ссылки для навигационного меню -->
+					<a href="#">Новости</a>
+					<a href="#">Обзоры</a>
+					<a href="#">Новости бренда</a>
+					<a href="#">Тесты</a>
+					<a href="#">Видео</a>
+					<a href="#">О бренде</a>
+				</nav>
+			</div>
+		</div>
+		<div class="promo-oppo-container">
+			<div class="promo-oppo-mission-title">
+				<span>Миссия бренда</span>
+			</div>
+			<h2 class="promo-oppo-mission-subtitle">Создаем инновации для человека, развиваем мир через технологии.</h2>
+			<div class="promo-oppo-mission-block">
+				<div class="promo-oppo-mission-block-text">OPPO поддерживает всех, кто стремится к инновациям, а также способствует развитию общества, создавая технологии и возможности для каждого на основе взаимной поддержки.</div>
+				<div class="promo-oppo-mission-block-img"></div>
+			</div>
+			<h2 class="promo-oppo-innovation-title">
+				<span>OPPO — ведущий автор инноваций в области интеллектуальных устройств</span>
+			</h2>
+			<div class="promo-oppo-innovation-block">
+				<div class="promo-oppo-innovation-block-img"></div>
+				<div class="promo-oppo-innovation-block-text">Шаг за шагом OPPO построила глобальную систему инноваций, стимулирующую освоение передовых технологий</div>
+			</div>
+			<div class="promo-oppo-innovation-statistics">
+				<div class="promo-oppo-innovation-statistic promo-oppo-innovation-statistic-1">
+					<div class="promo-oppo-innovation-statistic-number">60+</div>
+					<div class="promo-oppo-innovation-statistic-text">С момента основания компании в 2004 году бизнес ОРРО постоянно расширялся и теперь охватывает более 60 стран и регионов мира.</div>
+				</div>
+				<div class="promo-oppo-innovation-statistic promo-oppo-innovation-statistic-2">
+					<div class="promo-oppo-innovation-statistic-number">40 000+</div>
+					<div class="promo-oppo-innovation-statistic-text">Более 40,000 сотрудников ОРРО работают над технологическими инновациями, призванными улучшить жизнь людей по всему миру.</div>
+				</div>
+				<div class="promo-oppo-innovation-statistic promo-oppo-innovation-statistic-3">
+					<div class="promo-oppo-innovation-statistic-number">
+						<span>600</span>
+						<span>миллионов<br>пользователей</span>
+					</div>
+					<div class="promo-oppo-innovation-statistic-text">Теперь ColorOS включает в себя полный спектр системных приложений, доступных 600 миллионам пользователей по всему миру для бесплатного комфортного использования.</div>
+				</div>
+			</div>
+			<div class="promo-oppo-mission-block promo-oppo-mission-block-innovation">
+				<div class="promo-oppo-mission-block-text">Уделяя особое внимание правам интеллектуальной собственности, ОРРО занимает одно из первых мест по количеству патентов и лицензий в различных областях.</div>
+				<div class="promo-oppo-mission-block-img"></div>
+			</div>
+			<div class="promo-oppo-innovation-bottom">
+				<div class="promo-oppo-innovation-bottom-item">
+					<div class="promo-oppo-innovation-bottom-item-number">101,000+</div>
+					<div class="promo-oppo-innovation-bottom-item-text">глобальных патентных заявок</div>
+				</div>
+				<div class="promo-oppo-innovation-bottom-item">
+					<div class="promo-oppo-innovation-bottom-item-number">55,000+</div>
+					<div class="promo-oppo-innovation-bottom-item-text">лицензий по всему миру</div>
+				</div>
+				<div class="promo-oppo-innovation-bottom-item">
+					<div class="promo-oppo-innovation-bottom-item-number">91,000+</div>
+					<div class="promo-oppo-innovation-bottom-item-text">патентных заявок на изобретения</div>
+				</div>
+				<div class="promo-oppo-innovation-bottom-item">
+					<div class="promo-oppo-innovation-bottom-item-number">91%</div>
+					<div class="promo-oppo-innovation-bottom-item-text">доля патентных заявок на изобретения</div>
+				</div>
+			</div>
+			<h2 class="promo-oppo-reliability-title">Надежные производственные мощности и системы мирового уровня в 8 производственных центрах по всему миру.</h2>
+			<div class="promo-oppo-reliability-block">
+				<div class="promo-oppo-reliability-block-img"></div>
+				<div class="promo-oppo-reliability-block-content">
+					<div class="promo-oppo-innovation-bottom-item">
+						<div class="promo-oppo-innovation-bottom-item-number">85%</div>
+						<div class="promo-oppo-innovation-bottom-item-text">автоматизация производства</div>
+					</div>
+					<div class="promo-oppo-innovation-bottom-item">
+						<div class="promo-oppo-innovation-bottom-item-number">90%</div>
+						<div class="promo-oppo-innovation-bottom-item-text">автоматизация мониторинга</div>
+					</div>
+					<div class="promo-oppo-innovation-bottom-item">
+						<div class="promo-oppo-innovation-bottom-item-number">6</div>
+						<div class="promo-oppo-innovation-bottom-item-text">производственных центров соответствуют строгим критериям, установленным ведущими международными операторам</div>
+					</div>
+				</div>
+			</div>
+			<h2 class="promo-oppo-award-title">
+				<span>Награды</span>
+				<span>Благодаря глубокому развитию компетенций в разных областях, компания OPPO заслужила признание пользователей и профессиональных организаций по всему миру</span>
+			</h2>
+			<div class="promo-oppo-award-list">
+				<div class="promo-oppo-award-item">
+					<img src="images/award-1.jpg" alt="">
+					<h3>2021</h3>
+					<p>6-е место в рейтинге 50 лучших мировых брендов в Китае по версии Brand Z</p>
+				</div>
+				<div class="promo-oppo-award-item">
+					<img src="images/award-2.jpg" alt="">
+					<h3>2020</h3>
+					<p>В 2020 году консалтинговая компания BostonConsulting Group внесла ОРРО в список 100 лучших мировых технологических компаний развивающихся рынков</p>
+				</div>
+				<div class="promo-oppo-award-item">
+					<img src="images/award-3.jpg" alt="">
+					<h3>2019</h3>
+					<p>Два года подряд компания удостаивалась премии Canstar Blue в номинации «Самые довольные клиенты — смартфоны».</p>
+				</div>
+				<div class="promo-oppo-award-item">
+					<img src="images/award-4.jpg" alt="">
+					<h3>2015-2020</h3>
+					<p>Премия «Самое авторитетное предприятие Китая»</p>
+				</div>
+			</div>
+			<h3 class="promo-oppo-social-title">Присоединяйтесь к нам</h3>
+			<div class="promo-oppo-social-list">
+				<!-- ссылки для соц. сетей -->
+				<a href="#" target="_blank"> <!-- f -->
+					<svg width="54" height="54" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<circle cx="27" cy="27" r="26.5" stroke="#B2B2B2"/>
+						<path d="M28.8364 39V28.5024H33.2637L34 24.0047H28.8455V21.7465C28.8455 20.2535 29.5727 19.4976 31.0546 19.4976H33.2637V15H29.5818C25.8909 15 24.4182 17.2488 24.4182 21V24.0047H20V28.5024H24.4182V39H28.8364Z" fill="#B2B2B2"/>
+					</svg>
+				</a>
+				<a href="#" target="_blank"> <!-- inst -->
+					<svg width="54" height="54" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<circle cx="27" cy="27" r="26.5" stroke="#B2B2B2"/>
+						<path d="M26.9914 30.5975C26.04 30.6023 25.1251 30.2236 24.4451 29.5436C23.7651 28.8636 23.3748 27.937 23.3587 26.9648C23.3725 25.9911 23.7618 25.0622 24.4421 24.3803C25.1224 23.6983 26.0385 23.3185 26.9914 23.3233C27.9457 23.3161 28.864 23.6949 29.5461 24.3771C30.2283 25.0593 30.6188 25.9895 30.6326 26.9648C30.6166 27.9386 30.2251 28.8665 29.5432 29.5468C28.8613 30.2271 27.9442 30.6047 26.9914 30.5975ZM26.9914 21.2844C25.5033 21.2725 24.0712 21.8634 23.0084 22.928C21.9457 23.9926 21.3387 25.444 21.3203 26.9648C21.3203 30.1078 23.8466 32.6364 26.9914 32.6364C28.4794 32.6507 29.9124 32.062 30.9768 30.9991C32.0413 29.9362 32.6505 28.4856 32.6711 26.9648C32.6437 25.4454 32.0326 23.998 30.9699 22.9352C29.9072 21.8724 28.4782 21.2794 26.9914 21.2844Z" fill="#B2B2B2"/>
+						<path d="M31.6045 21.1415C31.6045 20.4292 32.1795 19.8594 32.8939 19.8594C33.5995 19.8594 34.1744 20.4381 34.1744 21.1504C34.1744 21.8627 33.5995 22.4325 32.8851 22.4325C32.1795 22.4325 31.6045 21.8538 31.6045 21.1415Z" fill="#B2B2B2"/>
+						<path d="M36.0359 31.5676C36.0359 32.9476 35.5481 34.0606 34.7467 34.8085C33.853 35.6011 32.697 36.0151 31.5147 35.9659H22.4724C21.1396 35.9659 20.0333 35.5564 19.2406 34.8085C18.8308 34.3741 18.5127 33.8584 18.306 33.2933C18.0992 32.7281 18.0081 32.1256 18.0384 31.5231V22.4414C18.0384 21.1059 18.4391 19.9929 19.2406 19.2005C20.1301 18.4006 21.289 17.9856 22.4724 18.0431H31.6019C32.9347 18.0431 34.0411 18.4437 34.8425 19.245C35.5917 20.0464 36.0359 21.1504 36.0359 22.4325V31.5676ZM36.2101 17.8205C35.5933 17.2147 34.8637 16.7417 34.0646 16.4297C33.2655 16.1177 32.4132 15.973 31.5583 16.0041H22.4289C18.5698 16.0041 16 18.5773 16 22.4325V31.5231C16 33.4284 16.6185 35.0756 17.8642 36.2687C19.1232 37.4331 20.7754 38.0523 22.4724 37.9959H31.5147C33.2255 38.0565 34.8928 37.4374 36.1666 36.2687C36.774 35.6577 37.2502 34.9242 37.5652 34.1148C37.8801 33.3055 38.0268 32.438 37.996 31.5676V22.4325C37.996 20.5717 37.3687 18.9779 36.2101 17.8205Z" fill="#B2B2B2"/>
+					</svg>
+				</a>
+				<a href="#" target="_blank"> <!-- H -->
+					<svg width="54" height="54" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<path d="M36 39H31.0194V29.8023H22.9806V39H18V17H22.9806V25.3277H31.0194V17H36V39Z" fill="#B2B2B2"/>
+						<circle cx="27" cy="27" r="26.5" stroke="#B2B2B2"/>
+					</svg>
+				</a>
+				<a href="#" target="_blank"> <!-- vk -->
+					<svg width="54" height="54" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<circle cx="27" cy="27" r="26.5" stroke="#B2B2B2"/>
+						<path d="M37.0456 28.2523C37.3492 27.6735 38.4116 26.026 39.2138 24.7904C41.5554 21.1614 42 20.3933 42 19.9258C42 19.7546 41.9337 19.5903 41.8158 19.4693C41.6979 19.3482 41.5379 19.2802 41.3711 19.2802H35.7556C35.4521 19.2802 35.1918 19.5028 35.1376 19.8145C34.8232 21.5844 30.7687 26.6828 30.1291 26.9944C29.8689 26.9944 29.5003 26.3265 29.5003 25.0687V19.6475C29.5112 19.2245 29.522 18.7904 29.1968 18.4564C28.7957 18.0223 28.1561 18 26.3781 18C23.1475 18 21.9984 19.0019 21.9984 19.9258C21.9984 20.282 22.2152 20.5603 22.573 20.5603C22.573 20.5603 23.2559 21.0278 23.2559 23.7885C23.2559 24.5343 23.2559 26.4045 23.0824 26.9833C21.4997 26.705 19.3098 22.6197 18.204 19.692C18.1589 19.5726 18.0802 19.4696 17.9779 19.3963C17.8755 19.3229 17.7542 19.2825 17.6294 19.2802H12.6318C12.5384 19.278 12.4458 19.2976 12.3609 19.3375C12.2759 19.3774 12.2009 19.4365 12.1414 19.5104C12.082 19.5843 12.0397 19.6711 12.0176 19.7643C11.9955 19.8574 11.9942 19.9545 12.0139 20.0482C12.7077 23.9221 20.6433 36 25.7494 36H28.2428C29.5762 36 29.6846 34.5195 29.7497 33.551C29.8147 32.616 29.8906 32.1373 30.1291 32.1373C30.8988 32.1373 32.4816 33.551 33.5331 34.475C34.704 35.5325 35.2461 36 35.7556 36H38.8778C40.4823 36 42 36 42 34.7087C42 34.2189 41.588 33.6512 39.2247 30.8906C38.4224 29.9666 37.3708 28.7421 37.0565 28.2523H37.0456Z" fill="#B2B2B2"/>
+					</svg>
+				</a>
+				<a href="#" target="_blank"> <!-- youtube -->
+					<svg width="54" height="54" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M38.7073 19.3423C39.4784 20.1245 39.7392 21.8896 39.7392 21.8896C39.7392 21.8896 40 23.9613 40 26.0329V27.9671C40 30.0388 39.7279 32.121 39.7279 32.121C39.7279 32.121 39.4784 33.8755 38.7073 34.6577C37.7944 35.5861 36.7959 35.6739 36.2418 35.7226C36.1904 35.7271 36.1428 35.7313 36.0994 35.7358C32.4596 36 27.0057 36 27.0057 36C27.0057 36 20.2364 35.9472 18.1614 35.7464C18.0636 35.7285 17.945 35.7145 17.8107 35.6988C17.1511 35.6212 16.1122 35.499 15.2927 34.6471C14.5103 33.8755 14.2607 32.1104 14.2607 32.1104C14.2607 32.1104 14 30.0388 14 27.9671V26.0329C14 23.9613 14.2607 21.879 14.2607 21.879C14.2607 21.879 14.5103 20.1245 15.2927 19.3423C16.1947 18.4145 17.2011 18.3262 17.757 18.2775C17.809 18.273 17.857 18.2688 17.9006 18.2642C21.5404 18 26.9944 18 26.9944 18H27.0057C27.0057 18 32.4709 18 36.0994 18.2642C36.1428 18.2687 36.1904 18.2729 36.2418 18.2774C36.7959 18.3261 37.7943 18.4139 38.7073 19.3423ZM31.88 27.0056L23.75 31.5082V22.5029L31.88 27.0056Z" fill="#B2B2B2"/>
+						<circle cx="27" cy="27" r="26.5" stroke="#B2B2B2"/>
+					</svg>
+				</a>
+				<a href="#" target="_blank"> <!-- message -->
+					<svg width="54" height="54" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<path d="M27 53.5H26.9992C12.3743 53.5227 0.5 41.6496 0.5 27C0.5 12.374 12.374 0.5 27 0.5C41.6489 0.5 53.5 12.3737 53.5 27C53.5 41.6489 41.6263 53.5 27 53.5Z" stroke="#B2B2B2"/>
+						<path d="M28.0769 18.5799C26.5316 17.032 24.1511 16 21.4364 16C16.7588 16 13 18.9239 13 22.5358C13 25.0298 14.8376 27.2227 17.4688 28.3407C17.3017 30.2327 15.5894 31.3506 15.5894 31.3506C17.5941 31.5656 18.9305 31.0496 19.8076 30.3617C19.3064 29.3727 19.0558 28.2977 19.0558 27.1797C19.0558 22.8798 22.9399 19.3109 28.0769 18.5799Z" fill="#B2B2B2"/>
+						<path d="M40.9996 27.2646C40.9996 22.8926 36.4105 19.2998 30.7689 19.2998C30.3057 19.2998 29.8847 19.3431 29.4637 19.3864C24.4115 19.8625 20.5381 23.1956 20.5381 27.2646C20.5381 28.1736 20.7486 29.0394 21.0854 29.8618C22.4748 32.9785 26.2639 35.1861 30.7689 35.1861C30.9373 35.1861 31.1478 35.1861 31.3162 35.1861C32.0319 36.3982 33.5897 37.9998 36.7473 37.9998C37.0841 37.9998 37.4631 37.9998 37.842 37.9565C37.842 37.9565 35.7369 36.5713 35.5264 34.2771C38.8103 32.9785 40.9996 30.2947 40.9996 27.2646Z" fill="#B2B2B2"/>
+					</svg>
+				</a>
+			</div>
+			<footer class="promo-oppo-footer">
+				<!-- заменить на liveinternet counter -->
+				<a href="#">
+					<img alt="" src="data:image/gif;base64,R0lGODdhWAAPAIAAAGuKzv///ywAAAAAWAAPAAACToSPqcvtD1+YtNqLs968Z+OF4khyYImmZDOd6gtjbODG9t0eOc7Hyd4LlnSnmvC40dEAQKRT5ioyn1SKEmisOqfWaVYL7obHloj5jE6bCwA7" />
+				</a>
+				<p>© 2005-2021, «4PDA».<br>4PDA ® - зарегистрированный товарный знак.</p>
+			</footer>
+		</div>
+	</div>
+</div>
